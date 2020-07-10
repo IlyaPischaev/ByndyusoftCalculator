@@ -1,0 +1,8 @@
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\bin\Debug\netcoreapp3.1\ByndyusoftCalculator.deps.json
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\bin\Debug\netcoreapp3.1\ByndyusoftCalculator.dll
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\bin\Debug\netcoreapp3.1\ByndyusoftCalculator.pdb
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\obj\Debug\netcoreapp3.1\ByndyusoftCalculator.AssemblyInfoInputs.cache
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\obj\Debug\netcoreapp3.1\ByndyusoftCalculator.AssemblyInfo.cs
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\obj\Debug\netcoreapp3.1\ByndyusoftCalculator.dll
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\obj\Debug\netcoreapp3.1\ByndyusoftCalculator.pdb
+C:\Work\C#\ByndyusoftCalculator\ByndyusoftCalculator\obj\Debug\netcoreapp3.1\ByndyusoftCalculator.csprojAssemblyReference.cache
